@@ -4,3 +4,6 @@
 
 # Hugo cache (extended version)
 .hugo_build.lock
+
+# Obsidian files
+.obsidian

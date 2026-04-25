@@ -15,18 +15,15 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Chudo
-  description: "👋 Hi, I'm Daniel Chudnovski, a software engineer who is aware of both the benefits and dangers of technology"
-  keywords: [Daniel Chudnovski, Chudnovski, Chudo, Blog, Portfolio, PaperMod]
-  author: Me
+  keywords: [Daniel Chudnovski, Chudnovski, Chudo, Blog]
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -36,8 +33,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -53,11 +50,6 @@ params:
     # icon: /apple-touch-icon.png
     # iconHeight: 35
 
-  # home-info mode
-  homeInfoParams:
-    Title: "👋 Hi, I'm Daniel Chudnovski"
-    Content: "A software engineer who is aware of both the benefits and dangers of technology"
-
   socialIcons:
     - name: instagram
       url: "https://instagram.com/daniel_chudo"
@@ -66,18 +58,9 @@ params:
     - name: github
       url: "https://github.com/DanielChudo"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
   cover:
-    hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
   # editPost:
   #   URL: "https://github.com/<path_to_repo>/content"
@@ -96,21 +79,6 @@ params:
   #   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   #   keys: ["title", "permalink", "summary", "content"]
 
-# menu:
-#   main:
-#     - identifier: categories
-#       name: categories
-#       url: /categories/
-#       weight: 10
-#     - identifier: tags
-#       name: tags
-#       url: /tags/
-#       weight: 20
-#     - identifier: example
-#       name: example.org
-#       url: https://example.org
-#       weight: 30
-
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -121,3 +89,44 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: English
+    languageDirection: ltr
+    weight: 1
+    params:
+      author: "Daniel Chudnovski"
+      description: "👋 Hi, I'm Daniel Chudnovski, a software engineer who is aware of both the benefits and dangers of technology"
+      DateFormat: "January 2, 2006"
+      displayFullLangName: true
+      homeInfoParams:
+        Title: "👋 Hi, I'm Daniel Chudnovski"
+        Content: "A software engineer who is aware of both the benefits and dangers of technology"
+  ru:
+    languageName: Русский
+    languageDirection: ltr
+    weight: 2
+    params:
+      author: "Даниэль Чудновский"
+      description: "👋 Привет, Я Даниэль Чудновский — программист, осознающий как преимущества, так и опасности технологий"
+      DateFormat: "2 January 2006"
+      displayFullLangName: true
+      homeInfoParams:
+        Title: "👋 Привет, Я Даниэль Чудновский"
+        Content: "Программист, осознающий как преимущества, так и опасности технологий"
+  he:
+    languageName: עברית
+    languageDirection: rtl
+    weight: 3
+    params:
+      author: "דניאל צ'ודנובסקי"
+      description: "👋 שלום, אני דניאל צ'ודנובסקי — מתכנת שמודע גם ליתרונות וגם לסכנות של טכנולוגיות"
+      DateFormat: "2 January 2006"
+      displayFullLangName: true
+      homeInfoParams:
+        Title: "👋 שלום, אני דניאל צ'ודנובסקי"
+        Content: "מתכנת שמודע גם ליתרונות וגם לסכנות של טכנולוגיות"

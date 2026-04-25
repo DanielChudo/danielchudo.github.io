@@ -1,0 +1,4 @@
+.top-link {
+  right: unset;
+  inset-inline-end: 2rem; /* automatically becomes right in LTR, left in RTL */
+}
