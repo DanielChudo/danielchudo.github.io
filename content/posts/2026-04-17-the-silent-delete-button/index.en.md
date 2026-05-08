@@ -1,8 +1,8 @@
 ---
 date: 2026-04-17
 title: The Silent Delete Button
-summary: Who controls your digital library?
-description: Who controls your digital library?
+summary: You don’t own your e-books — and that’s by design
+description: You don’t own your e-books — and that’s by design
 cover:
   image: cover.png
 slug: the-silent-delete-button
@@ -133,6 +133,8 @@ The streaming and digital store economy has made the "purchase" of content essen
 Such a model is beneficial to copyright holders: instead of fluctuating revenues, they receive a more stable and predictable cash flow. Banks operate on a similar logic: early repayment of a loan or mortgage can be accompanied by penalties, as this disrupts their expected financial flows and calculations.
 
 We need **open formats** for digital purchases so that users can transfer purchased content between services or store it locally. Podcasts, calendars, and email are good examples of **interoperability (cross-platform compatibility)**. You choose an email client based on the convenience of the interface and features, and not because only a specific application is capable of sending a letter to your friend. This model should also spread to streaming and messengers.
+
+The history of Microsoft’s e-book store is a short but illustrative case about digital purchases and their limitations. Microsoft launched its e-book sales in 2017, but due to a weak ecosystem (reading was only available through the Edge browser, with no mobile apps) and strong competition from Amazon’s Kindle, the project quickly failed. By April 2019, the store was shut down, and in July 2019 users completely lost access even to the books they had purchased, receiving full refunds. This clearly demonstrated that in digital services, you often don’t actually buy the file itself, but rather a temporary license for access that can disappear.
 
 ## Post Scriptum
 
