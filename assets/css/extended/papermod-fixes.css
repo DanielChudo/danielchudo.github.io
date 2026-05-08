@@ -2,3 +2,9 @@
   right: unset;
   inset-inline-end: 2rem; /* automatically becomes right in LTR, left in RTL */
 }
+
+.md-content blockquote {
+  font-style: italic;
+  border-color: #0077ff;
+  background-color: #e6f2ff;
+}
