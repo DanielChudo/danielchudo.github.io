@@ -10,3 +10,7 @@
   border-end-end-radius: var(--radius);
   border-start-end-radius: var(--radius);
 }
+
+[data-theme="dark"] .md-content blockquote {
+  background-color: #242c39;
+}
