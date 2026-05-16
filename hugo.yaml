@@ -130,3 +130,6 @@ languages:
       homeInfoParams:
         Title: "👋 שלום, אני דניאל צ'ודנובסקי"
         Content: "מתכנת שמודע גם ליתרונות וגם לסכנות של טכנולוגיות"
+
+permalinks:
+  posts: "/:slug/"
