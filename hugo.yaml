@@ -133,3 +133,7 @@ languages:
 
 permalinks:
   posts: "/:slug/"
+
+caches:
+  images:
+    dir: :cacheDir/images
