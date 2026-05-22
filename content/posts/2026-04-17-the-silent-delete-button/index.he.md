@@ -5,6 +5,7 @@ summary: אתם לא הבעלים של הספרים האלקטרוניים של�
 description: אתם לא הבעלים של הספרים האלקטרוניים שלכם — וזה נעשה בכוונה
 cover:
   image: cover.png
+  relative: true
 slug: the-silent-delete-button
 translationKey: the-silent-delete-button
 ---

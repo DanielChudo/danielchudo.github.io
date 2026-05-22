@@ -5,6 +5,7 @@ summary: Кто спасает интернет от забвения?
 description: Кто спасает интернет от забвения?
 cover:
   image: cover.png
+  relative: true
 slug: ctrl-s-for-civilization
 translationKey: ctrl-s-for-civilization
 ---

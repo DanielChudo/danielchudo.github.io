@@ -5,6 +5,7 @@ summary: Вы не владеете своими электронными кни
 description: Вы не владеете своими электронными книгами — и это сделано намеренно
 cover:
   image: cover.png
+  relative: true
 slug: the-silent-delete-button
 translationKey: the-silent-delete-button
 ---

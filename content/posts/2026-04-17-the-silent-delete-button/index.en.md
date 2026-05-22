@@ -5,6 +5,7 @@ summary: You don’t own your e-books — and that’s by design
 description: You don’t own your e-books — and that’s by design
 cover:
   image: cover.png
+  relative: true
 slug: the-silent-delete-button
 translationKey: the-silent-delete-button
 ---

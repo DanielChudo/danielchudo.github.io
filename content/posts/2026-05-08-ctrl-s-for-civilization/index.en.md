@@ -5,6 +5,7 @@ summary: Who is saving the internet from oblivion?
 description: Who is saving the internet from oblivion?
 cover:
   image: cover.png
+  relative: true
 slug: ctrl-s-for-civilization
 translationKey: ctrl-s-for-civilization
 ---
