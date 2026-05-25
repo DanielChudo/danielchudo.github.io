@@ -27,6 +27,7 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -57,6 +58,8 @@ params:
       url: "https://linkedin.com/in/daniel-chudnovski"
     - name: github
       url: "https://github.com/DanielChudo"
+    - name: rss
+      url: "index.xml"
 
   cover:
     hiddenInList: true # hide on list pages and home
@@ -137,3 +140,9 @@ permalinks:
 caches:
   images:
     dir: :cacheDir/images
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
