@@ -68,7 +68,7 @@ Toei Animation did not invest enough resources into restoring a work recognized 
 
 ![Dragon Ball](dragon-ball.png)
 
-The situation with Israeli series created by the studio whose work is close to me is even sadder. Niche content has a small fan base, which makes large-scale restoration projects difficult. Yet history knows examples of lone individuals succeeding against systemic obstacles — a kind of David and Goliath story.
+The situation with Israeli series created by the studio whose work is close to me is even sadder. Niche content has a small fan base, which makes large-scale restoration projects difficult. Yet history knows examples of lone individuals succeeding against systemic obstacles—a kind of David and Goliath story.
 
 For viewing, I have two options: pirated 2008 recordings in 360p, or official streaming. In the latter case, the viewer gets either the result of aggressive AI processing that erases background details and distorts actors' faces, or a transfer from the original film reels cropped to 16:9. Modern streaming platforms somehow avoid preserving the original 4:3 aspect ratio, which means up to 25% of the frame is lost, subtitles cover the image, and the characters' faces in dialogue fill the entire screen, creating visual discomfort.
 
@@ -134,7 +134,7 @@ for (var i:int = 0; i < 100000; i++) {
 calculate(1.5);
 ```
 
-With access to the operating system through plugin APIs, an attacker could easily break out of the sandbox and infect the victim's machine. Flash supported video, audio, 3D, sockets, and file-system access — each subsystem expanded the attack surface. In the era of mass internet adoption and global virus outbreaks (such as the Blaster worm), attitudes toward security changed. Microsoft and Netscape began major refactors of their products, but Adobe limited itself to Flash patches. Users rarely updated, and the company feared breaking backward compatibility with a format created back in the late 1990s.
+With access to the operating system through plugin APIs, an attacker could easily break out of the sandbox and infect the victim's machine. Flash supported video, audio, 3D, sockets, and file-system access—each subsystem expanded the attack surface. In the era of mass internet adoption and global virus outbreaks (such as the Blaster worm), attitudes toward security changed. Microsoft and Netscape began major refactors of their products, but Adobe limited itself to Flash patches. Users rarely updated, and the company feared breaking backward compatibility with a format created back in the late 1990s.
 
 The final blow came when Apple refused from supporting Flash in its mobile browser because of security problems and the extreme power consumption it caused on the weak batteries of the first iPhones. Interactive sites of that era were also not optimized for touch control.
 
@@ -160,13 +160,13 @@ Here **Pareto's law** comes into play: by preserving the 20% of information that
 
 Already some groups understand this and are moving toward preserving all content without quality loss. One such step is the transition to new formats that, for now, are not supported everywhere or require greater computing power, but produce files with a lower final size.
 
-Compression algorithms always balance speed and file size. MP3 used to encode more slowly than MP2, but it produced smaller files and better quality — and the bet on rising computer power proved correct. Today the situation is similar: data volume is growing faster than disks, but computing power is increasing even faster, so "heavier" algorithms are becoming advantageous.
+Compression algorithms always balance speed and file size. MP3 used to encode more slowly than MP2, but it produced smaller files and better quality—and the bet on rising computer power proved correct. Today the situation is similar: data volume is growing faster than disks, but computing power is increasing even faster, so "heavier" algorithms are becoming advantageous.
 
 Because of this, modern formats such as WebP and AV1 are gradually replacing JPEG and MP4. WebP reduces image size by 25–35% without quality loss, while AV1 provides roughly 30% better video compression than HEVC/VP9. Google, Netflix, and YouTube already use them extensively, but mass adoption is slowed by compatibility with older devices, the need to store multiple versions of files, and the heavy workload of AV1 encoding.
 
 This transition is driven not only by ideology but also by economics. The main advantage of the new formats is that they are free. Unlike H.264 and H.265, for which device manufacturers and streaming services pay licensing fees, AV1 and WebP are **royalty-free**. It was precisely the patent restrictions of older codecs that pushed the industry to create AV1.
 
-A simultaneous problem and virtue of the internet is that compatibility matters more to it than efficiency: old JPEGs and MP4s open almost everywhere. That is why large services usually use "smart switching" — new devices get AV1, while older ones continue to use H.264.
+A simultaneous problem and virtue of the internet is that compatibility matters more to it than efficiency: old JPEGs and MP4s open almost everywhere. That is why large services usually use "smart switching"—new devices get AV1, while older ones continue to use H.264.
 
 ## Non-Classical Lossy Compression
 

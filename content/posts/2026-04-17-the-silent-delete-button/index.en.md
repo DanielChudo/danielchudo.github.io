@@ -1,8 +1,8 @@
 ---
 date: 2026-04-17
 title: The Silent Delete Button
-summary: You don’t own your e-books — and that’s by design
-description: You don’t own your e-books — and that’s by design
+summary: You don’t own your e-books—and that’s by design
+description: You don’t own your e-books—and that’s by design
 cover:
   image: cover.png
   relative: true
@@ -28,7 +28,7 @@ Since the content is stored on someone else's servers, the retailer and publishe
 
 The deletion of "1984" and "Animal Farm" is an iconic case. The books were sold in the Kindle Store, but it turned out the seller had no rights to them. Amazon deleted them from users' devices and refunded the money. Happy ending? Not quite. It became obvious that we do not truly own what we buy. This happens especially often within a subscription: a month later, a book can simply disappear if the publisher revokes the license.
 
-I recently learned that some publishers make "modern" edits to texts. Today's reader might not understand the cultural references of the past, so they are replaced with current trends. In the "Pretty Little Liars" series, which was originally released in 2006, one of the characters mentioned the show "Fear Factor". In the new version, it was replaced by TikTok. I admit, it took me a second to remember that show myself. But that is the beauty of books — they are a time capsule. It made me feel nostalgic, and a young reader could go online and immerse themselves in the context of the period. But the publisher decided otherwise.
+I recently learned that some publishers make "modern" edits to texts. Today's reader might not understand the cultural references of the past, so they are replaced with current trends. In the "Pretty Little Liars" series, which was originally released in 2006, one of the characters mentioned the show "Fear Factor". In the new version, it was replaced by TikTok. I admit, it took me a second to remember that show myself. But that is the beauty of books—they are a time capsule. It made me feel nostalgic, and a young reader could go online and immerse themselves in the context of the period. But the publisher decided otherwise.
 
 Sometimes changes even affect the covers. To advertise a new movie or series, the copyright holder replaces the classic e-book cover with a poster.
 
@@ -40,7 +40,7 @@ Let's get back to ownership rights. What if I want to move the book to where it 
 
 According to the license agreement, this is prohibited. But even if you try, you won't succeed because of **DRM (Digital Rights Management)**. These are technical measures for copyright protection. DRM takes many forms and operates at the software and hardware levels. Its purpose is to prevent you from treating the file like a physical object. You didn't buy the file itself, but a temporary permission to view it under certain conditions. Hacking each DRM system is a separate complex process.
 
-Companies invest enormous resources in protecting their content. These measures are financially justified. The platform generates enough profit to sell devices almost at cost (and older models at sales — even at a loss). The main income is generated through the store and subscriptions. By buying a gadget, you get tied to the ecosystem. The problem of cloud services depriving us of control was perfectly described by Cory Doctorow in his book "Enshittification":
+Companies invest enormous resources in protecting their content. These measures are financially justified. The platform generates enough profit to sell devices almost at cost (and older models at sales—even at a loss). The main income is generated through the store and subscriptions. By buying a gadget, you get tied to the ecosystem. The problem of cloud services depriving us of control was perfectly described by Cory Doctorow in his book "Enshittification":
 
 > The ability of purveyors of cloud-based products to alter their terms, prices, and features at will enables one of the most beloved enshittification tactics of tech business leaders: **bait and switch**. If you operate a cloud-based app, you can monitor your customers’ every click and keystroke to discover which features are most valuable to your deepest-pocketed users, and then you can remove that feature from the product’s basic tier and reclassify it as an upcharged add-on.
 
@@ -58,7 +58,7 @@ The project's founder, Michael Stern Hart, decided in 1971 that literature shoul
 
 Due to copyright laws, you will find almost no modern literature there. Therefore, it's worth knowing about the Libby app. In this app, you can read and listen to books for free using just a library card. The system mimics real life: each book has a limited number of digital copies. If all are occupied, you get in line. When your turn comes, you can rent the book. Usually for a period of one to three weeks. A book appears in the app when your local library buys a license from the publisher. So, your location plays a major role here. Surprisingly, the city library in my town turned out to be connected to the system. Apparently, my taxes accidentally did something useful.
 
-Both services are legal. But there are also so-called **shadow libraries** — services providing access to content bypassing copyright. The largest of them is Anna's Archive. It's more of a search engine than a repository: the archive aggregates data from other pirate libraries. The project allows you to find almost any book, but how does it survive under legal pressure?
+Both services are legal. But there are also so-called **shadow libraries**—services providing access to content bypassing copyright. The largest of them is Anna's Archive. It's more of a search engine than a repository: the archive aggregates data from other pirate libraries. The project allows you to find almost any book, but how does it survive under legal pressure?
 
 ![Anna's Archive](annas-archive.png)
 
@@ -80,7 +80,7 @@ This works, but sometimes there can be problems. Since the network is distribute
 
 The BitTorrent protocol has a culture of seeding. I downloaded an interesting file, which means I will seed it for other similar enthusiasts. On many trackers, you can get banned if you only download all the time but don't upload anything back. In IPFS, people rarely run nodes. Everything rests on enthusiasm. There is an attempt to push people to support the network, but it works poorly.
 
-The easiest way to spur people to do something is a financial incentive. For this, **Proof-of-Storage** was invented — a cryptographic consensus mechanism. Based on it, networks are built where special tokens operate. They can be earned by storing someone else's file on your node. And then spent to store your own file on someone else's node.
+The easiest way to spur people to do something is a financial incentive. For this, **Proof-of-Storage** was invented—a cryptographic consensus mechanism. Based on it, networks are built where special tokens operate. They can be earned by storing someone else's file on your node. And then spent to store your own file on someone else's node.
 
 In the end, for IPFS to really work, it was necessary to pin all files, monitor replication, and add an economy. This turned everything into a centralized system, but more complex and worse. Anna's Archive kept some links, but made the main access via direct HTTP downloads. Separately, the site publishes giant torrents, but they are not intended for specific books, but to preserve the entire library. If the site closes, a copy can be spun up from its source code and these torrents. Currently, 86% of the total volume of 1.1 petabytes is backed up in at least 4 locations, and only 11% in more than 10 locations.
 
