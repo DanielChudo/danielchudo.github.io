@@ -1,0 +1,26 @@
+---
+date: 2026-06-24
+title: Requiem for the Hyperlink
+summary: The internet we lost
+description: The internet we lost
+slug: requiem-for-the-hyperlink
+translationKey: requiem-for-the-hyperlink
+---
+
+Have you ever felt a little sad that, despite the internet being practically infinite, almost all of our online lives now revolve around just three or four apps? It wasn't always like this. We used to have hundreds of bookmarks. We didn't simply use the internet—we surfed it. Remember that expression? We traveled across the web, and even browsers reflected that spirit in their branding. Safari chose a compass as its logo. Firefox wrapped its fox around the entire globe. Netscape Navigator not only had a name that evoked exploration but even featured a real ship's wheel on its installation discs. Internet Explorer is self-explanatory.
+
+That spirit is gone now. The internet has been conquered by giant platforms. Everything inside them is built by salaried professionals, and to those companies, our cozy little corner of the digital world is nothing more than another line item in the marketing department's expense report.
+
+The contrast becomes especially obvious when you compare the old web style with the new one. The early internet breathed the aesthetic of [Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero). You've almost certainly seen those images: rolling green fields, bright blue skies, glass skyscrapers, glossy icons. It was a style that radiated limitless possibility. The air was filled with techno-optimism. Technology was seen as a friend, not an enemy.
+
+Today's internet is better represented by [Liminal Spaces](https://en.wikipedia.org/wiki/Liminal_space). It's built on the exact opposite philosophy. There's nothing overtly sinister about these images, yet the longer you look at them, the more unsettling they become. The lighting is warm, but they somehow feel cold. Endless corridors create a sense of claustrophobia because there are no windows and no way out. The minimalism is easy on the eyes, yet it leaves you wondering whether anyone actually lives here. And if they do... where are all their belongings?
+
+Instead of open frontiers and places built for collaboration, we've ended up wandering through enclosed spaces with no destination. We used to shape our own online environments. We followed specific people, and our feeds showed everything in chronological order. Now algorithms run the show. Our carefully curated networks have turned into television channels where whoever pays the most gets the airtime.
+
+The hyperlink has become one of the biggest enemies of modern tech giants. It's the digital equivalent of the telephone booth in "The Matrix". Click it, and you escape the platform's algorithmic prison—you are free to go anywhere. That's exactly why platforms fight hyperlinks so aggressively. Clicking one often triggers a frightening warning telling you that you're about to leave for a dangerous third-party website. And that's only if the link is clickable in the first place. It genuinely pains me to see the World Wide Web—a network literally built on hyperlinks—become a place where comment sections fill up with people asking others to "send me the link in DMs," because apps deliberately prevent users from copying or opening links.
+
+The platforms didn't just wall off the internet—they walled off us as well. The web used to erase borders and bring people together regardless of where they lived or who they were. We openly shared personal details and posted photos on public profiles. I've lost count of how many times I've heard stories of people becoming friends simply because one of them messaged a complete stranger on ICQ. It's almost impossible to imagine that happening today. Our profiles are locked down, visible only to people we already know, and any message from a stranger is instantly treated as spam.
+
+Or rather, that's not quite right. The internet didn't close itself off. It fractured, and each fragment sealed itself away to keep users from leaving. Messaging apps don't communicate with one another. Websites are becoming harder to discover through search engines. Casinos remove clocks and cover their windows so guests lose track of time and forget there's a world outside. The biggest media platforms have done something remarkably similar. They've polished every rough edge out of their interfaces and eliminated every possible distraction—anything that might encourage us to leave.
+
+Modern apps are becoming less interested in helping people interact with each other and more interested in keeping them consuming content. You can't insert an advertisement into a phone call with a friend. You can't slip a sponsored post into a private conversation. That's the price of "free." During the dot-com boom, nobody really knew how to make money from the internet. People were reluctant to pay for something they couldn't physically hold. Then came contextual advertising. People often say that we became the product. I prefer to think of it differently. Instead of paying with money, we now pay with our own time and attention. Those resources may feel easier to part with than cash, but they're far more valuable. You only have to look at how much corporations are willing to spend to capture them.
