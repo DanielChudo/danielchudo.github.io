@@ -14,3 +14,12 @@
 [data-theme="dark"] .md-content blockquote {
   background-color: #242c39;
 }
+
+.md-content img {
+  margin: 1rem auto;
+}
+
+table {
+  margin: 1rem auto;
+  width: fit-content;
+}
